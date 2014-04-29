@@ -1,0 +1,103 @@
+Written project
+Vitaly Repin. Project Part III: Design Document
+March 2014.
+%!encoding: UTF-8
+%!style(tex) : a4wide
+
+== Objectives ==
+
+Business objectives ranked by priorities (starting from the highest):
+
++ //Increase volume of operations with "Shares".// Reason: growth of the company profits and contribution to sustainability (good corporate PR).
++ //Increase the active userbase.// Reason: improve company's prospects for IPO and private investments. It will also contribute to the company's ability to generate revenue.
+
+
+== Target behaviors ==
+
+Linked with the 1st objective:
+
+- //Increase amount of goods and services offered through ShareAll.// Success metric: Average monthly sales volume (measured in "Shares") increased to 50% or more.
+- //Increase amount of goods and services consumed through ShareAll.// Success metric: Average monthly volume of the bought goods and services (measured in "Shares") increased to 50% or more.
+
+Linked with the 2nd objective:
+
+- //Increase awareness of the ShareAll services among the social connections of the existing userbase (virus marketing).// Success metrics: userbase growth rate is increased to 33% or more. [K-factor ""http://en.wikipedia.org/wiki/K-factor_(marketing)""] from the marketing research will be used to estimate the virality.
+
+
+== Players ==
+
+=== Demographics ===
+
+The target auditory to address is pretty wide as a lot of different people are interested in collaborative consumption. However, studies allow us to set the following demographic profile
+to address:
+
+- Age: 22-48
+- Sex: Male and Female. Females are slightly more interested in the collaborative consumption than males.
+- Education level: From low to High
+- Income level: From low to top part of the middle class
+
+Demographics data is taken from [Amsterdam study. http://www.collaborativeconsumption.com/2013/09/19/study-the-consumer-potential-of-collaborative-consumption-demographics/] 
+//Note: In real project I would select several different demographic profiles to address and make more careful analysis of the demographical studies.//
+
+As we can see from the profile males need more external motivation than females.
+
+
+=== Psychographics ===
+
+The following three categories from Bartle Player type model are of the upmost interest for our case:
+
+- //Achievers.// How to address: motivate them to use the system more actively. Buy more, sell more. Produce and consume more services in the ShareAll.
+- //Socializers.// How to address: Motivate them to spread the knowledge about ShareAll among their social circles.
+- //Explorers.// How to address: Motivate them to increase the variety of ways ShareAll is used (e.g., increase the variety of goods and services offered in the system).
+
+
+== Activity loops ==
+
+System carries two main messages:
+
+- By participating in the collaborative consumption you contribute to sustainability!
+- It's good for your budget (family and personal)!
+
+All the gamification stories should constantly refer back to these main messages.
+
+
+=== Engagement loops ===
+
+The first player experience should be very straightforward and intuitive. Very small amount of options should be presented for the first time players in order for them not to be lost.
+
+Main motivation for the players are contribution to the global sustainability (saving the planet) and saving the budget. This motivation shall be activated in different ways for different
+types of players. E.g., for the married persons we should stress on family budget more than for the single youngsters.
+
+=== Progression loops ===
+
+Different types of challenges are offered to the players. They should be able to select the challenges based on their own interests (autonomy has to be respected).
+
+Set of detailed progression loops with small challenges inside should be described in the additional document. Important requirement: not too hard, not too easy (balance).
+The players should feel the progress but not to be shocked by the great challenge from the very beginning.
+
+== Fun ==
+
+Fun component is integrated into all the system elements.
+
+It is addressed by:
+
+- Graphical design of the system
+- Surprises
+- Collaborations (in the teams)
+- Challenges of the month - friendly competitions between players
+- Showing concrete examples how the current player's activity in the system contributed to the global sustainability
+
+
+== Tools ==
+
+The system is bases on the following game elements:
+
+- //Points.// Not the same as the "Shares" currency. Reflects different kinds of users achievements.
+- //Badges.// Different badges for different types of players. E.g., badges for selling new type of goods/services (target group: Explores), badges for being a good team player or getting new users in the system (target group: Socializers), badges for selling/buying certain amount of goods/services through the system (target group: Achievers).
+- //Collections.// A variety of badge collections is available in the system. Based on the different benefits of the collaborative consumption. E.g., collection for "saving the planet's forests",
+"improving the earth air" etc. Collection serve as meta-badges but the players should understand what badges they need to collect in order to make the collection.
+- //Completion progress bars.// For the collections. With immediate feedback - "next types of badges you need to take..."
+- //Teams.// Forming teams around certain ideas (e.g, "collaborative travelling", "collaborative economy in NYC" etc). An idea is to exchange experiences with different sellers/buyers.
+- //Ratings// and //Levels.// Ratings of the players (by other players). User level depends on his/her rating and acts as a reputation in the system and his/her ability to access different system features (e.g., ability to form the teams, ability to moderate discussions etc).
+- //Gifting.// Users should be able to donate the goods and services to other users through the system.
+- //Sharing.// It should be possible to let the users' friends in social networks to know about the user's achievements.

@@ -1,0 +1,82 @@
+Written project
+Vitaly Repin. Project Plan Part II: Motivation
+March 2014.
+%!encoding: UTF-8
+%!style(tex) : a4wide
+
+== Objective ==
+
+Gamification system objective is to reduce annual health costs. The project will be considered as successful if the savings are above 94 million USD annually.
+
+== Target behavior ==
+
+Improve the average physical fitness of city employees by 5%.
+It will save 188 million USD annually. As our goal is to save 94 million USD
+or more, it means that the budget for financing the gamification project can
+be taken from the rest of savings (approximately 93 million USD).
+
+== Project summary ==
+
+=== Measurable criterias of success ===
+
+- N% of the employees overweight, N < 34.4%
+- M% of the employees obese, M < 33.9%
+- P% of the employees meet the US Physical Activity Guidelines for aerobic physical activity, P > 48%
+- Q% of the employees meet the US Guidelines for muscle-strengthening activity, Q > 24%.
+
+
+Concrete values of N, M, P, Q to be defined on a later stage of the project planning.
+
+=== Participants ===
+Target auditory for the project are city employees. Total number: 50,000. We need to address both men and women.
+Participation in the project is completely voluntary.
+
+== Motivational tools ==
+
+There are different ways to decrease the weight. System will suggest two preferrable pathes: diets and excercises. Playes can combine the activity from both paths in order to achive the
+better results.
+
+The ultimate goal is to change the lifestyle to be healthier. External motivators will be used as a temporary measure.
+
+=== Point system ===
+
+Point system is established to track the personal and team achievements.
+
+=== Leaderboard ===
+
+- Global leaderboard of the teams (see below)
+- Personal custoimized leaderboard reflects the person's position in his/her team
+
+
+=== Progress bars ===
+
+Progress bars are established which show how close the person is to his/her goal. They also shows recommendations on achieving the goals.
+
+=== Badges ===
+
+System of badges to be developed to track different achievements in moving to the healthier lifestyle.  E.g.:
+
+- For regular visits to the gym
+- For accomplishing the team goals
+- For being on track with the team goals and contributing to them more than others (shall come as a surprise for the players but it will be calculated according to the algorithm)
+
+Badges are used as Status, Access and Stuff extrinsic motivators. All the badges are shareable.
+
+
+=== Team work ===
+
+Teams are formed from different cuty departments. They can collectively set their goal for the specific time period (e.g., "Average weight should be X lbs. in one month").
+Achieving the planned result gives the unique "Team achievement badge" and adds 200 points to the accounts of every team member.
+
+The three best teams of the months are rewarded by the prize (e.g., one paid vacation day for every team memeber during next month).
+
+
+== Project PR ==
+
+Important part of the project launch is to communicate properly its goals to the employees. It shoule be presented as a game like activity to help them to be healthier.
+
+It allows to influence their internal motivation and to help to move them from extrinsic motivators to intrinsic using the following motivation curve:
+
++ Introjection
++ Identification
++ Integration
